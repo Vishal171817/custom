@@ -1,1 +1,5 @@
-
+classes=4
+name=custom/classes.names
+backup=backup/
+train=custom/train.txt
+valid=custom/test.txt
